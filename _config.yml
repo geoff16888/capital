@@ -6,7 +6,7 @@ email: geoff16888@gmail.com
 description: "Every failure is leading towards success."
 keyword: "證券, 期貨, 選擇權, api, 程式交易, 複委託, 美股, 財富管理 "
 url: "https://geoff16888.github.io"          # your host, for absolute URL
-baseurl: /capital      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: /test      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
