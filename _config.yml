@@ -6,7 +6,7 @@ email: geoff16888@gmail.com
 description: "Every failure is leading towards success. | 這裡是 @Geoff逸帆 的官方Blog，與你走向財富自由的道路。"
 keyword: "證券, 期貨, 選擇權, 海外期貨, 複委託, 基金, 美股, 財富管理, 保險, 資產規劃, 程式交易, api, @Geoff"
 url: "https://geoff16888.github.io"          # your host, for absolute URL
-baseurl: /test      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: /capital      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
