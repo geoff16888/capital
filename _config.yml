@@ -12,7 +12,7 @@ github_repo: "https://github.com/geoff16888/capital" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Words are but wind, but seeing is believing!"
-sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/geoff.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
