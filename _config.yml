@@ -7,7 +7,7 @@ description: "Every failure is leading towards success. | 這裡是 @Geoff逸帆
 keyword: "證券, 期貨, 選擇權, 海外期貨, 複委託, 基金, 美股, 財富管理, 保險, 資產規劃, 程式交易, api, @Geoff"
 url: "https://geoff16888.github.io"          # your host, for absolute URL
 baseurl: /capital      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/geoff16888/capital" # you code repository 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -78,7 +78,7 @@ kramdown:
 
 # Google Analytics
 #ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
